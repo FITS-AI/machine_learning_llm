@@ -1,0 +1,7 @@
+.venv
+balanced_nutrition_finetuning_data.csv
+comprehensive_nutrition_dataset.csv
+diverse_nutrition_dataset.csv
+nutrition_finetuning_data.csv
+fine_tuned_t5_model\model.safetensors
+machine_learning_llm\app\__pycache__
